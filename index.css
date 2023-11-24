@@ -1,0 +1,116 @@
+.s{
+    position: absolute;
+    left:270px;
+}
+.t{
+    position: absolute;
+    left: 540px;
+}
+.r{
+    position: absolute;
+    left: 800px;
+}
+.q{
+    position: absolute;
+    left: 800px;
+}
+.e{
+    position: absolute;
+    left: 800px;
+}
+.w{
+    position: absolute;
+    left: 800px;
+}
+.r{
+    position: absolute;
+    left: 800px;
+}
+.f{
+    position: absolute;
+    left: 800px;
+}
+.c{
+    position: absolute;
+    left: 540px;
+}
+.y{
+    position: absolute;
+    left: 540px;
+}
+.d{
+    position: absolute;
+    left: 540px;
+}
+.h{
+    position: absolute;
+    left: 540px;
+}
+.a {
+    position: absolute;
+    left:270px;
+}
+.n{
+    position: absolute;
+    left:270px;
+}
+.v{
+    position: absolute;
+    left: 270px;
+}
+.b{
+    position: absolute;
+    left: 270px;
+}
+.x{
+    position: absolute;
+    left: 270px;
+}
+.z{
+    position: absolute;
+    left: 540px;
+}
+p{
+    color: white;
+}
+
+#a{
+    color:white;
+    position: absolute;
+    left:270px;
+}
+#b{
+    color: white;
+    position: absolute;
+    left:535px;
+}
+#c{
+    color: white;
+    position: absolute;
+    left:800px;
+}
+.j{
+    position: absolute;
+    left:270px;
+}
+.l{
+    position: absolute;
+    left:540px;
+}
+.o{
+    position: absolute;
+    left:800px;
+}
+body{
+    margin: 100px;
+}
+#main{
+width: 800px;
+height: 430px;
+display: flex;
+}
+
+#main div {
+-ms-flex: 50; 
+flex: 5;
+}
